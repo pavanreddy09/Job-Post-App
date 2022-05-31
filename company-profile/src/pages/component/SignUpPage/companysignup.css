@@ -1,0 +1,13 @@
+
+.signup-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #cbface;
+}
+
+.inputs-div {
+    width: 500px;
+    text-align: center;
+}

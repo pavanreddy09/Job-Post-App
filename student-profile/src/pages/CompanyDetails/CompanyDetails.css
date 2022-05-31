@@ -1,0 +1,39 @@
+
+.company-details-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #cbface;
+
+}
+
+.container {
+    padding: 10px;
+    width: 600px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    border-radius: 10px;
+}
+.container h1{
+  text-align: center;
+  border-bottom: 1px solid black;
+  margin-top: -3px;
+}
+
+.company-hr-name-container, .location {
+    text-align: center;
+}
+
+.job-package-container {
+    text-align: center;
+}
+
+.cutoffs {
+    display: flex;
+    justify-content: space-between;
+    padding:0 30px;
+}
+.button-div{
+    width: 100%;
+    align-content: center;
+}
